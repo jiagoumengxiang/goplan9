@@ -28,8 +28,8 @@ import (
 	"os"
 	"time"
 
-	"code.google.com/p/goplan9/draw"
-	"code.google.com/p/goplan9/games/spacewar/pdp1"
+	"github.com/chenjianlong/goplan9/draw"
+	"github.com/chenjianlong/goplan9/games/spacewar/pdp1"
 )
 
 func main() {

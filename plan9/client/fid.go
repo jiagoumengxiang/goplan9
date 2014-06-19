@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"code.google.com/p/goplan9/plan9"
+	"github.com/chenjianlong/goplan9/plan9"
 )
 
 func getuser() string { return os.Getenv("USER") }

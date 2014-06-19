@@ -1,11 +1,11 @@
 package main
 
 import (
-	"code.google.com/p/go.net/dict"
+	"github.com/chenjianlong/go.net/dict"
 	"flag"
 	"log"
 
-	"code.google.com/p/goplan9/plan9/acme"
+	"github.com/chenjianlong/goplan9/plan9/acme"
 )
 
 var dictx = flag.String("d", "", "dictionary")

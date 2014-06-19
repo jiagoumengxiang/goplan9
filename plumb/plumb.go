@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"code.google.com/p/goplan9/plan9/client"
+	"github.com/chenjianlong/goplan9/plan9/client"
 )
 
 // Message represents a message to or from the plumber.

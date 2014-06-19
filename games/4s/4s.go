@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"code.google.com/p/goplan9/draw"
+	"github.com/chenjianlong/goplan9/draw"
 )
 
 func main() {
